@@ -63,18 +63,36 @@ const config: Config = {
       items: [
         {  // copy for new section thingies
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'mathSidebar',
           position: 'left',
           label: 'Helpy Thing',
         },
         {  // copy for new section thingies
           type: 'docSidebar',
-          sidebarId: 'workySidebar',
+          sidebarId: 'ecoSidebar',
+          position: 'left',
+          label: 'Worky',
+        },
+        {  // copy for new section thingies
+          type: 'docSidebar',
+          sidebarId: 'physicsSidebar',
+          position: 'left',
+          label: 'Worky',
+        },
+        {  // copy for new section thingies
+          type: 'docSidebar',
+          sidebarId: 'engineeringSidebar',
+          position: 'left',
+          label: 'Worky',
+        },
+        {  // copy for new section thingies
+          type: 'docSidebar',
+          sidebarId: 'englishSidebar',
           position: 'left',
           label: 'Worky',
         },
         {
-          href: 'https://github.com/Overlord-Runt/Docusaurus-Template', // repo link
+          href: 'https://github.com/Overlord-Runt/Notes', // repo link
           label: 'GitHub',
           position: 'right',
         },
