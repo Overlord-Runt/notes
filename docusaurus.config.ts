@@ -81,7 +81,7 @@ const config: Config = {
         },
         {  // copy for new section thingies
           type: 'docSidebar',
-          sidebarId: 'engineeringSidebar',
+          sidebarId: 'engineerSidebar',
           position: 'left',
           label: 'Engineering',
         },
@@ -105,7 +105,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Helpy Thing', // replace with title of the button thing
+              label: 'Mathematics', // replace with title of the button thing
               to: '/docs/math/intro', // path to the doc
             },
           ],
