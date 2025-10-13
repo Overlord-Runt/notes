@@ -65,31 +65,31 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'mathSidebar',
           position: 'left',
-          label: 'Helpy Thing',
+          label: 'Mathematics',
         },
         {  // copy for new section thingies
           type: 'docSidebar',
           sidebarId: 'ecoSidebar',
           position: 'left',
-          label: 'Worky',
+          label: 'Economics',
         },
         {  // copy for new section thingies
           type: 'docSidebar',
           sidebarId: 'physicsSidebar',
           position: 'left',
-          label: 'Worky',
+          label: 'Physics',
         },
         {  // copy for new section thingies
           type: 'docSidebar',
           sidebarId: 'engineeringSidebar',
           position: 'left',
-          label: 'Worky',
+          label: 'Engineering',
         },
         {  // copy for new section thingies
           type: 'docSidebar',
           sidebarId: 'englishSidebar',
           position: 'left',
-          label: 'Worky',
+          label: 'English',
         },
         {
           href: 'https://github.com/Overlord-Runt/Notes', // repo link
