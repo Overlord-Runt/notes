@@ -12,3 +12,5 @@ The HSC course focuses on the management of an economy and is therefore essentia
 |2  Australia's Place in the Global Economy| 25 | 30 |
 |3  Economic Issues| 25 | 30 |
 |4  Economic Policies and Management| 25 | 30 |
+
+
