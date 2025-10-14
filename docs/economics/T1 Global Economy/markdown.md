@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Mandatories
+# Rubric
 
 Every Tab needs a dropdown like this
 
