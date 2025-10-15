@@ -32,6 +32,11 @@ Start solving Y for time and then solve for X
 
 3 main points are the turning point, and the start and end points.
 
+Projectiles can be launched at any angle
+
+At the turning point, the trajectory has reached the maximum height. 
+
+If the launch height is not 0, launch height must be added to maximum height calculation to find the height
 
 ## Models
 
