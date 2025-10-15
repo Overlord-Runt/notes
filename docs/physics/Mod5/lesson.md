@@ -32,7 +32,7 @@ Start solving Y for time and then solve for X
 
 3 main points are the turning point, and the start and end points.
 
-
+wjw
 
 ## Models
 
