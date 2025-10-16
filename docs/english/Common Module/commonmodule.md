@@ -49,4 +49,24 @@ Joining hack club and discovering my desire to go into mechatronic engineering
 ### Emotional
 
 
+## List Of Human Experiences
+
+- The will to survive
+- The struggle with adversity
+- Feelings of caution/fear
+- The desire to believe/have faith
+- The need to rationalise
+- THe pursuit of dreams
+- Seeking to define and understand one's identity
+- The need to be free to have the opportunity to folow and act on one's own will
+- The desire to Dominate or win
+- The urge to understand and seek truth
+- THe desire to be treated with resspect and dignity
+- Curiosity
+- The urge to express yourself, physically, intellectually, spiritually nd emotionally
+- The pursuit of happiness
+
+
+
+
 
