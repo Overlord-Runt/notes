@@ -4,7 +4,26 @@ sidebar_position: 3
 
 # *All We Do* by Oh Wonder
 
-## Notes
+## Notes/Qoutes
+
+All we do is hide away
+
+List of boxes to check
+
+Im not perfect yet
+
+Accept Where you are
+
+Making other peoples lives better
+
+Be reflective and improve on yourself in order to pass down better knowledge to your kids
+
+You are always in the game until you are dead
+
+There is no failure, only opportunities to improve
+
+Being human is everything
+
 
 
 
