@@ -50,7 +50,7 @@ Global trade has also grown strongly in recent decades because of:
 - Value of exports has grown rapidly
     - $4.3T USD in 1990 to $30.7T USD in 2023
 
-![picture](/static/img/eco1.png)
+![picture](/img/eco1.png)
 
 - The high volume of global trade reflects the fact that economies do not produce all the items they need, or they do not produce them as efficiently as other economies, and have to import goods and services.
 - governments have encouraged trade by removing barriers and joining international and regional trade groups such as the WTO, EU, and the ASEAN.
