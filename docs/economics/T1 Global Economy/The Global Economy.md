@@ -2,11 +2,17 @@
 sidebar_position: 2
 ---
 
-# Overview 15/10/25
+# Overview
 
 
 - International economic intergration
 - Trade, finantial flows and foreign Investment
+
+## Key Terms
+
+**Gross World Product** - Refers to the sum of total output of goods and services by all economies in the world over a period of time.
+
+
 
 # International Economic Intergration
 
@@ -14,7 +20,7 @@ sidebar_position: 2
 
 1. Definition
 
-Globalisation refers to the __integration__ between different countries and economies and the __increased impact of internationsl influences__ on all __aspects of life and economic activity.__
+Globalisation refers to the __integration__ between different countries and economies and the __increased impact of international influences__ on all __aspects of life and economic activity.__
 
 2. Indicators of globalisation(in an economic sense)
 
