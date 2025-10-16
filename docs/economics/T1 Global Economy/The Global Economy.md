@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ## Key Terms
 
-**Gross World Product** - Refers to the sum of total output of goods and services by all economies in the world over a period of time.
+**Gross World Product(GWP)** - Refers to the sum of total output of goods and services by all economies in the world over a period of time.
 
 
 
@@ -45,7 +45,18 @@ Global trade has also grown strongly in recent decades because of:
 
 2. Increasing removal of trade barriers and more countries joining international trades groups such as World Trade Organisation (WTO), Europian Union(EU), and the Association of South-East Asian Nations (ASEAN).
 
+## Trends in the composition and direction of Trade Flows in the Global Economy
 
+- Value of exports has grown rapidly
+    - $4.3T USD in 1990 to $30.7T USD in 2023
+
+![picture](/static/img/eco1.png)
+
+- The high volume of global trade reflects the fact that economies do not produce all the items they need, or they do not produce them as efficiently as other economies, and have to import goods and services.
+- governments have encouraged trade by removing barriers and joining international and regional trade groups such as the WTO, EU, and the ASEAN.
+
+- Composition of Trade refers to the mix of goods and services
+- 
 
 
 
