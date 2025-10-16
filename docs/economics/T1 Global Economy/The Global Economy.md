@@ -29,3 +29,23 @@ Globalisation refers to the __integration__ between different countries and econ
 - Internationsl investment flows and transcorporations
 - Technology, transport, and communication
 
+## What Drives Globalisation
+
+- Technology
+- Transportation
+- Communication
+
+# International Trade in Goods and Services
+
+World trade refers to the volume and value of exports of goods and services
+
+Global trade has also grown strongly in recent decades because of:
+
+1. New technology in transport and communications, which have reduced the cost of moving goods between economies and providing services to customers in distant markets.
+
+2. Increasing removal of trade barriers and more countries joining international trades groups such as World Trade Organisation (WTO), Europian Union(EU), and the Association of South-East Asian Nations (ASEAN).
+
+
+
+
+
