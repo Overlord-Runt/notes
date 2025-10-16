@@ -28,5 +28,25 @@ Humans experience many things in their lives such as love and hate. These experi
 
 Pokemon Adventures: Emerald follows a boy named Emerald who does not believe in being friends with pokemon. His viewpoints see pokemon as tools for battle. He always changes his pokemon to fit a strategy that beats his opponent. But as the story progresses, Emerald is forced to use the same pokemon multiple times and because of this he starts to realise that pokemon are more than just tools for battle, that they wish to be friends and their friendship can help them be stronger. 
 
+## Human Experiences
+
+### Spiritual
+
+
+
+### Physical
+
+Running hackathons and events with hack club and helping people make and learn things they are proud of.
+
+### Social
+
+Joining Hack club and meeting people who push me to be a better person and make cool things.
+
+### Intellectual
+
+Joining hack club and discovering my desire to go into mechatronic engineering
+
+### Emotional
+
 
 
