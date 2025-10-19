@@ -15,4 +15,13 @@ International Financial flows are driven by Speculators and currency traders for
 ## Reasons for expansion in international financial flows:
 
 1. Lower controls on foreign currency markets, flows of foreign capital, banking interest rates and international investments in equity and debt markets
-2. Technological chnage: higher integration of international finiancial markets, more trading platforms, lower fees for buying/selling assets internationally
+2. Technological change: higher integration of international finiancial markets, more trading platforms, lower fees for buying/selling assets internationally
+
+
+## International Investmnet and transnational corporations
+
+Foreign direct investment(FDI) is where companies establish or buy a controlling interest in a foriegn company(10% or more)
+
+Foreign portfolio investment is wjere equity and debt securities are aquired.
+
+TNCs are companies that operate in 2 or more countries
