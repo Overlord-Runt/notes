@@ -56,7 +56,18 @@ Global trade has also grown strongly in recent decades because of:
 - governments have encouraged trade by removing barriers and joining international and regional trade groups such as the WTO, EU, and the ASEAN.
 
 - Composition of Trade refers to the mix of goods and services
-- 
+
+- World exports grew significantly between 1960 and 2024 as a percentage of world output(WGP)
+
+### Differences in trade between 2004 and 2024
+
+- Asia has become a much larger part of the global economy
+
+- Amount of trade in general has increased a lot
+
+- China is the main exporter in 2024 compared to germany in 2004
+
+- Asia's economy has tripled
 
 
 
