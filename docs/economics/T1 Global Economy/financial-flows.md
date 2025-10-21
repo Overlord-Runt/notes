@@ -18,7 +18,7 @@ International Financial flows are driven by Speculators and currency traders for
 2. Technological change: higher integration of international finiancial markets, more trading platforms, lower fees for buying/selling assets internationally
 
 
-## International Investmnet and transnational corporations
+## International Investment and transnational corporations
 
 Foreign direct investment(FDI) is where companies establish or buy a controlling interest in a foriegn company(10% or more)
 
@@ -45,4 +45,8 @@ Global capital markets trade a wide range of financial instruments. These includ
 13. Discuss the linkages between MNCs and foreign direct investment. List some examples of the largest MNCs in 2023 from Table 1.11, their countries of origin and the industries in which they operate.
 
 14. Discuss the main features of global production webs or supply chains operated by MNCs. How were these disrupted by the COVID-19 pandemic in 2020 and the Russian invasion of Ukraine in 2022?
+
+
+
+
 
