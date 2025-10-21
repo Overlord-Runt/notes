@@ -37,6 +37,15 @@ It can support against vertial and horizontal forces plus moments
 3. Take moment about the non-roller support to find the reaction at non-roller support
 4. Use sum of F<sub>v</sub> = 0 or sum of F,<sub>h</sub> = 0 to find the other non-roller reactions.
 
+## What is a truss?
+
+A truss is a structure characterised of triangulated system of members
+
+### Benefits of a truss
+
+- It is a really efficient way to span long distances with less material used
+- The force is distributed accross a number of members
+
 
 
 
