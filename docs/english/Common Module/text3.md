@@ -26,7 +26,7 @@ In this line, Jones uses a pun to correlate the cost of the time you take to pic
 
 5. What is the problem wth living in a world where there are voices that are only read and laughter is never heard?
 
-We are never able to properly communicate our emotions and we cannot experience the emotions of others unless it is told to us
+We are never able to properly communicate our emotions and we cannot experience the emotions of others unless it is specifically told to us. This further lowers our ability to socialise with the outside world and disconnects people from each other.
 
 6. Identify a paradox in the poem and comment in what makes it effective.
 
