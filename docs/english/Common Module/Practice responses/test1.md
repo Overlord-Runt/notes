@@ -19,5 +19,3 @@ Eileen states that she felt underprepared for this climb, stating that C hadn't 
 Eileen's struggles in climbing the mountain and her differing views with C
 
 
-
-
