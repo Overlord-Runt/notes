@@ -16,6 +16,6 @@ Eileen states that she felt underprepared for this climb, stating that C hadn't 
 
 3. Discuss how the speaker's struggles has ignited new ideas
 
-Eileen's struggles in climbing the mountain and her differing views with C
+Eileen's struggles in climbing the mountain and her differing views with C helped her reflect on the vast differences of perspectives within the human nature. When Eileen reflects that "Scale is paramount when we think of place", she uses a metaphor to communicate how the way you perceive challenges is dependant on your experiences growing up. For someone like her who has never travelled large distances on foot, the mountain climb is extremely difficult. But to C, someone who has grown up traveeling mountains, the mountain that is difficult to Eileen, is very easy to him. Eileen also says "We are reminded of the limitations of our animal bodies" where she understands how she is limited by her growth of evolution
 
 
