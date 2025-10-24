@@ -6,13 +6,13 @@ sidebar_position: 6
 
 Free Trade is when there are no barriers to trade imposed by governments for the purpose of protecting domestic producers from foreign competitors or for political reasons.
 
-## Free Trade
+### Free Trade
 
 - Free flow of goods/services between nations
 - No barriers
 - Often in form of free trade agreements between 2 or more countries
 
-## Protection
+### Protection
 
 - Artificial Barriers to trade(tarrif, quote, subsidy)
 - Imposed by government
@@ -42,5 +42,14 @@ Free trade is based ont eh economic thoery of Comparative advantage - individual
 3. Protection of domestic employment
 4. self-sufficency(and better national security)
 5. Free tarde may encourage unethical production methods
+
+
+## Knowledge Check
+
+1. Define 'comparative advantage'
+
+Comparative advantage is the action of a country producing what it has a better opportunity cost in and then trading to gain the other good at a greter price
+
+
 
 
