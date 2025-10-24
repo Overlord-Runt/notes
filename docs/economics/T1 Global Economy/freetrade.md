@@ -34,3 +34,13 @@ Free trade is based ont eh economic thoery of Comparative advantage - individual
 6. Innovation (spread of new technology)
 7. Higher standard of living(access to more goods/services at lower prices)
 
+
+## Disadvantages of free trade
+
+1. Protection of domestic infant industries
+2. Protection of dumping
+3. Protection of domestic employment
+4. self-sufficency(and better national security)
+5. Free tarde may encourage unethical production methods
+
+
