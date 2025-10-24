@@ -18,4 +18,8 @@ Free Trade is when there are no barriers to trade imposed by governments for the
 - Imposed by government
 - To help domestic firms
 
+## Comparative advantage
+
+Free trade is based ont eh economic thoery of Comparative advantage - individual economies should specialise in producing what they are most efficient in(having the lowest opportunity cost), and trade with each other
+
 
