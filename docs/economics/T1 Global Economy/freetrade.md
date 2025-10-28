@@ -22,6 +22,19 @@ Free Trade is when there are no barriers to trade imposed by governments for the
 
 Free trade is based ont eh economic thoery of Comparative advantage - individual economies should specialise in producing what they are most efficient in(having the lowest opportunity cost), and trade with each other
 
+### Questions
+
+A developing economy has entered into a multilateral free trade agreement with advanced economies. 
+
+Outline ONE disadvantage to the developing economy of entering into this trade agreement.
+
+---
+
+The developing country would experience a decline in local trade due to large amounts of dumping to reduce local competition.
+
+---
+
+
 
 
 ## Advantages of free trade
@@ -49,7 +62,6 @@ Free trade is based ont eh economic thoery of Comparative advantage - individual
 1. Define 'comparative advantage'
 
 Comparative advantage is the action of a country producing what it has a better opportunity cost in and then trading to gain the other good at a greter price
-
 
 
 
