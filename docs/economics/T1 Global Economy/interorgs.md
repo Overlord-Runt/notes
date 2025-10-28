@@ -56,5 +56,14 @@ Organisation for Economic Co-operation and Development: Conducts research on eco
 
 - G20 played a key role in the GFC, helping coordinate fiscal stimulus and improving supervision of Global Financial System and international financial institutions
 
+## Research Task
+
+|Organisation|Roles and Responsibilities|Recent developments or policies|
+|------------|--------------------------|-------------------------------|
+|WTO|||
+|IMF|||
+|World Bank|||
+|UN|||
+|OECD|||
 
 
