@@ -60,10 +60,10 @@ Organisation for Economic Co-operation and Development: Conducts research on eco
 
 |Organisation|Roles and Responsibilities|Recent developments or policies|
 |------------|--------------------------|-------------------------------|
-|WTO|||
-|IMF|||
-|World Bank|||
-|UN|||
-|OECD|||
+|WTO|administers trade agreements, serves as a forum for trade negotiations, and settles trade disputes between its members||
+|IMF|surveillance, which involves monitoring global and national economic and financial developments and providing policy advice. lending, which provides short and medium term loans to countries with balance of payments problems. and capacity development, which offers technical assistance and training to member countries to help build and maintain strong economies||
+|World Bank|reduce poverty and promote shared prosperity by providing financial and technical support to developing countries||
+|UN|maintain international peace and security, protect human rights, provide humanitarian aid, support sustainable development, and uphold international law||
+|OECD|providing a forum for governments to discuss issues, setting international standards, conducting independent analysis on economic and social policy, and promoting policies that improve economic and social well-being||
 
 
