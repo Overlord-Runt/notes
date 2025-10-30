@@ -68,5 +68,34 @@ Joining hack club and discovering my desire to go into mechatronic engineering
 
 
 
+## Documentaries
+
+### Revision
+
+**What is the general purpose of a documentary?**
+
+Documentaries provide a recount and analysis of a certain topic in the form of a film.
+
+**What do you expect to see in a documentary?**
+
+You can expect to see many interviews and video reenactments during documentaries
+
+**Are documentaries fact or fiction?**
+
+Documentaries provide a factual recolection of an event.
+
+### Observational Documentary
+
+- Purpose: To observe aspects of life with minimal interference or manipulation
+
+This form of documentary aims to 'observe,' and they may incorporate the following:
+
+- The cameras and film crew seem not to be disturbing or interfering with the scene
+- May involve interviews with the subjects
+- The camera follows the action that is beyond the action of the director (They aren't controlling the action)
+- The story unfolds in chronological order
+- The subjects speak and interact with each other, and this is not forced.
+
+
 
 
