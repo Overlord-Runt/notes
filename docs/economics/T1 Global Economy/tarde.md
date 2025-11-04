@@ -1,5 +1,5 @@
 ---
-siddebar_position: 8
+sidebar_position: 8
 ---
 
 
@@ -27,7 +27,7 @@ Look at the nsw government site for list of current agreeements
 :::
 
 
-## Advantages of trad Agreements
+## Advantages of trade Agreements
 
 - Reduce tariffs and trade barriers between cuntires
 - Easier and cheaper to buy and sell goods and services
