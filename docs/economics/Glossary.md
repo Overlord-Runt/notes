@@ -2,72 +2,72 @@
 sidebar_position: 3
 ---
 
+# Glossary
 
-
-communications
+### communications
 
 The crucial exchange of information between individuals, institutions, and groups that shapes and facilitates economic activity, acting as the "engine" for development, resource allocation, and policy-making
 
-debt securities
+### debt securities
 
 Debt security is a financial instrument that represents a loan from an investor to a borrower, with a promise to repay the principal and interest over a set period
 
-derivatives trading
+### derivatives trading
 
 Derivatives trading is the buying and selling of financial contracts whose value is derived from an underlying asset like stocks, bonds, commodities, or currencies
 
-economic integration
+### economic integration
 
-electronic commerce
+### electronic commerce
 
-equity securities
+### equity securities
 
-foreign direct investment
+### foreign direct investment
 
-global financial flows
+### global financial flows
 
-global foreign exchange
+### global foreign exchange
 
-global production webs
+### global production webs
 
-global trade flows
+### global trade flows
 
-globalisation
+### globalisation
 
-information technology revolution
+### information technology revolution
 
-international division of labour
+### international division of labour
 
-international migration
+### international migration
 
-Internet
+### Internet
 
-portfolio investment
+### portfolio investment
 
-technology diffusion
+### technology diffusion
 
-transport
+### transport
 
-workers’ remittances
+### workers’ remittances
 
-ETMs
+### ETMs
 
-FDI
+### FDI
 
-HCNs
+### HCNs
 
-ICT
+### ICT
 
-ILO
+### ILO
 
-MNCs
+### MNCs
 
-NIE
+### NIE
 
-PCNs
+### PCNs
 
-TCNs
+### TCNs
 
-WWW
+### WWW
 
 
