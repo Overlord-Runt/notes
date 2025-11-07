@@ -30,3 +30,16 @@ Subsidies - Financial support to local producers to help them compete
 Import bans or regulations - Legal restrictions that block or slow certain imports
 
 
+## Quotas
+
+### Economic Effect of a Quota
+
+- Domestic producers supply a greater quantity of the good therefore the quota stimulates domestic production and employment
+- More domestic resources are attracted to the protected industry therefore a reallocation of reasources towards less efficiesnt producers
+- Consumers pay a high price and recieve fewer goods therefore redistributes income away from consumers to domestic producers
+- Governments can sometimes raise a small amount of revenue from quotas
+- Retaliation effect can occur: In response to tariffs on imports other countries may impose tariffs on the goods that are exported to them
+
+
+
+
