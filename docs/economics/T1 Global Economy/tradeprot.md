@@ -40,6 +40,12 @@ Import bans or regulations - Legal restrictions that block or slow certain impor
 - Governments can sometimes raise a small amount of revenue from quotas
 - Retaliation effect can occur: In response to tariffs on imports other countries may impose tariffs on the goods that are exported to them
 
+## Economic effects of a Subsity
+
+- Domestic producers supply a greater quantity of the good therefore the quota stimulates domestic production and employment
+- More domestic resources are attracted to the protected industry therefore a reallocation of resources towards less efficient producers
+- Consumers pay a LOWER price and recieve MORE goods. However consumers still pay indirectly for subsities through higher taxes
+- Subsities impose direct costs on government budgets
 
 
 
