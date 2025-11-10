@@ -63,12 +63,18 @@ sidebar_position: 2
 
 ### Experiences + Emotions
 
+Resilience - 
+
+Got cheated on and broke up with her husband
+
+
+
 
 
 
 ### Motivations
 
-
+To get money to stay alive
 
 
 
