@@ -47,5 +47,20 @@ Import bans or regulations - Legal restrictions that block or slow certain impor
 - Consumers pay a LOWER price and recieve MORE goods. However consumers still pay indirectly for subsities through higher taxes
 - Subsities impose direct costs on government budgets
 
+## Export Incentives
+
+- Assistance such as grants, loans, or technical advice to local businesses to increase markeet share overseas
+- Tax cncessions, tax incentives and export assistance to domestic firms
+
+EXAMPLE: Australia's Export Market Development Grants (EMDG) program reimburses companies up to 5% of their export promotion costs, and provides general assistance to local manufacturers, provides grants to encourage small to medium enterprises market and pomote globally.
+
+- Do not directly protect local businessese against foreign producers
+- More about improving local business' international competitiveness and global market share
+
+### Difference between subsities and local content rules
+
+- subsities: paying local firms to lower prices
+- local content rules: requiring products to be made with a certain % of local goods
+
 
 
