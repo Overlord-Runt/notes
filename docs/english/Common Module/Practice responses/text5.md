@@ -10,9 +10,9 @@ Text 5 explores how children will play games about going outside instead of just
 
 
 
-## Discuss how the cover criques the nature of modern human behaviour
+## Discuss how the cover criques the nature of modern human interactions
 
-
+The cover critques mdern human interactions through the use of an hyperbole in 
 
 
 
