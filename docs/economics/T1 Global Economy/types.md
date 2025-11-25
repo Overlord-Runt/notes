@@ -17,8 +17,8 @@ catagorised as:
 |Type of Economy|Income Levels|Ecomonic Growth|Structure|Examples|
 |---------------|-------------|---------------|---------|--------|
 |Advanced|High Income Levels with GNI per capita above US$14,005 in 2023|Slow growth in recent decades|Large service industries and advanced manufacturing|USE< Australia, Japan|
-|Developing|Low income levels (<US$4,515)|Moderate growth rates but population growth is also high|Heavily reliant on agriculture and foreign aid|Egypt, Chad, Malawi|
-|Emerging|Fast growth in income levels(US$4,516 to US$14,005)|Strongest growth rates in the world(5-10%) and favourable economic prospects|Industrialising usually with subsidised manufacturing sectors|Brazil, India, China|
+|Developing|Low income levels (<US$4 515)|Moderate growth rates but population growth is also high|Heavily reliant on agriculture and foreign aid|Egypt, Chad, Malawi|
+|Emerging|Fast growth in income levels(US$4 516 to US$14 005)|Strongest growth rates in the world(5-10%) and favourable economic prospects|Industrialising usually with subsidised manufacturing sectors|Brazil, India, China|
 
 ## Domestic Factors
 
